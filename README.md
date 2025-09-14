@@ -23,7 +23,7 @@ Sebelum menjalankan ini, pastikan Anda telah menginstal Python (disarankan versi
 1.  **Instal pustaka yang diperlukan**:
     Aplikasi ini menggunakan beberapa pustaka Python. Anda dapat menginstalnya menggunakan command
     ```
-    !pip install mediapipe opencv-python pandas scikit-learn html5lib streamlit
+    pip install -r requirements.txt
     ```
 
 ---
